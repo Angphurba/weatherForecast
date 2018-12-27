@@ -2,10 +2,7 @@ package weather;
 
 import java.util.ArrayList;
 import java.util.Scanner;
-/**
- *
- * @author Angphurba
- */
+
 public class Weather {
 
     private double temperature;
